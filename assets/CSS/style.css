@@ -1,0 +1,66 @@
+/*
+Estilos da página index.html
+*/
+
+.center {
+    text-align: center;
+    }
+    
+    .container {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .menu li {
+        display: inline;
+        padding: 30px;
+    }
+
+    .menu li a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .menu li a:hover {
+        color:coral;
+    }
+
+    .p-30 {
+        padding: 30px;
+    }
+
+    .br-50 {
+        border-radius: 50%;
+    }
+
+    .wh-250 {
+        width= "250"
+        height= "250"
+    }
+    
+    .tm-social {
+        width: 50px;
+        height: 50px;
+    }
+
+    .mb-40 {
+        margin-bottom: 40px;
+    }
+
+    /*
+    Estilos da página contato.html
+    */
+
+    .ml-50 {
+        margin-left: 50px;
+    }
+
+    /*
+    Estilo da página LuffyCrew
+    */
+
+    .left {
+        text-align: left;
+        }
